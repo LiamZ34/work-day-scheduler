@@ -17,4 +17,6 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+to view live version of this repository [click here](https://liamz34.github.io/work-day-scheduler/)
+
 ![Screen Shot 2022-08-09 at 9 38 30 PM](https://user-images.githubusercontent.com/103050228/183792328-53b5ae4f-7d40-4a51-bdaf-31db4ec2fd48.png)
